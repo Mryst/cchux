@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/batched_process/batched_process.iml" filepath="$PROJECT_DIR$/batched_process/batched_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/canal_kafka/canal_kafka.iml" filepath="$PROJECT_DIR$/canal_kafka/canal_kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyg.iml" filepath="$PROJECT_DIR$/pyg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/real_process/real_process.iml" filepath="$PROJECT_DIR$/real_process/real_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/report/report.iml" filepath="$PROJECT_DIR$/report/report.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sync_db/sync_db.iml" filepath="$PROJECT_DIR$/sync_db/sync_db.iml" />
+    </modules>
+  </component>
+</project>
